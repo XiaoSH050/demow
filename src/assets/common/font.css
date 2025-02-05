@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'global';
+    src: url('global.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'extend';
+    src: url('extend.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aa';
+    src: url('Aa.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Alibaba';
+    src: url('Alibaba.otf');
+    font-weight: normal;
+    font-style: normal;
+}
