@@ -23,6 +23,7 @@ import pinia from '@/stores'
 // 状态存储
 app.use(pinia)
 // 路由配置
+
 app.use(router)
 
 // 汉化
