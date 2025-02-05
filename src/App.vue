@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <!-- 测试提交 -->
+  <!-- 测试工具提交 -->
   <router-view></router-view>
 </template>
 
